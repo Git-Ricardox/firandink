@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://git-ricardox.github.io/firandink/sitemap.xml
