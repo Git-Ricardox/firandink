@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Form Follows Fun - bauhaus shirt design</title>
+<desc>Bauhaus geometric composition. Bold primary palette.</desc>
+<text x="1967.4" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >S</text>
+<text x="2025.8" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >H</text>
+<text x="2075.9" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >I</text>
+<text x="2125.3" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >R</text>
+<text x="2182.6" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >T</text>
+<text x="2277.7" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >N</text>
+<text x="2337.7" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >O</text>
+<text x="2386.8" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >.</text>
+<text x="2472.5" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >0</text>
+<text x="2531.3" y="1450" font-family="Bebas Neue" font-size="92" fill="#1E1E1E" text-anchor="middle" >5</text>
+<circle cx="1830" cy="2270" r="500" fill="#D64027" />
+<path d="M 2390 2270 A 400 400 0 0 1 3190 2270 Z" fill="#F2B705" />
+<polygon points="1200,3420 1870,3420 1535,2850" fill="#2456A6" />
+<rect x="2410" y="2780" width="890" height="115" rx="0" fill="#1E1E1E" />
+<rect x="2410" y="2990" width="600" height="115" rx="0" fill="#1E1E1E" />
+<path d="M 2820 3780 A 510 510 0 0 1 3330 3270" fill="none" stroke="#1E1E1E" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="3020" cy="3350" r="140" fill="none" stroke="#1E1E1E" stroke-width="34"/>
+<circle cx="2950" cy="1700" r="85" fill="#F2B705" />
+<circle cx="1270" cy="1720" r="80" fill="#2456A6" />
+<text x="2250" y="3970" font-family="Bebas Neue" font-size="160" fill="#1E1E1E" text-anchor="middle" letter-spacing="18">FORM FOLLOWS FUN</text>
+<text x="2250" y="4130" font-family="Caveat" font-size="105" fill="#2456A6" text-anchor="middle" >a bauhaus playground</text>
+</svg>

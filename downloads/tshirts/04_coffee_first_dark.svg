@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Coffee First shirt design</title>
+<desc>Bold stacked type with steaming mug. High contrast, 2-color.</desc>
+<rect x="1860" y="2080" width="780" height="660" rx="80" fill="none" stroke="#F4E9D8" stroke-width="24"/>
+<path d="M 2640 2180 C 2860 2180 2860 2500 2640 2500" fill="none" stroke="#F4E9D8" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" />
+<ellipse cx="2250" cy="2080" rx="390" ry="46" fill="#8C4A2F" stroke="#F4E9D8" stroke-width="24"/>
+<path d="M 2120 1930 q -45 -75 0 -150 q 45 -75 0 -150" fill="none" stroke="#F4E9D8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 2380 1930 q 45 -75 0 -150 q -45 -75 0 -150" fill="none" stroke="#F4E9D8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" />
+<text x="2250" y="3260" font-family="Archivo Black" font-size="330" fill="#F4E9D8" text-anchor="middle" >COFFEE</text>
+<text x="2250" y="3605" font-family="Archivo Black" font-size="330" fill="#C4552D" text-anchor="middle" >FIRST.</text>
+<text x="2250" y="3810" font-family="Caveat" font-size="120" fill="#6B625C" text-anchor="middle" >talk to me after my second cup</text>
+<polygon points="1410,3114 1419.7,3140.3 1446,3150 1419.7,3159.7 1410,3186 1400.3,3159.7 1374,3150 1400.3,3140.3" fill="#C4552D" />
+<polygon points="3090,3114 3099.7,3140.3 3126,3150 3099.7,3159.7 3090,3186 3080.3,3159.7 3054,3150 3080.3,3140.3" fill="#C4552D" />
+</svg>
